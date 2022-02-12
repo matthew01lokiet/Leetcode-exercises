@@ -1,2 +1,2 @@
 # Leetcode-exercises
-Collection of Leetcode exercises.
+Collection of LeetCode exercises implemented by myself.
