@@ -38,8 +38,6 @@ class Solution {
             }
         }
         
-        /////////////////////////
-        
         ListNode current2 = list2;
         
         beforeInsert.next = list2;
