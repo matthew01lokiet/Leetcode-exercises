@@ -1,6 +1,5 @@
 class Solution {
     public String sortString(String s) {
-        
         StringBuilder result = new StringBuilder();
         
         int[] countTab = new int[123];
